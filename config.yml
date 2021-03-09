@@ -8,7 +8,8 @@ github:
   app:
     integration_id: 104202
     webhook_secret: "atKnrwDawOa"
-    private_key: |SHA256:0oksi0MkP2l92kuJAYudv3iKNLsCA5Yy7k8q8L+oz2A=
+    private_key: |
+      
       
 
 app_configuration:
