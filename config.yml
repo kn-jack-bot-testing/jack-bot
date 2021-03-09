@@ -40,7 +40,7 @@ github:
 
 app_configuration:
   pull_request_preamble: "I am jack bot."
-  project_id: #Add the project number here (ex: https://github.com/orgs/ncr-swt-retail/projects/1 you'd put 1 here)
+  project_id: "https://github.com/orgs/kn-jack-bot-testing/projects/2"
   epic_preamble: "\n<!-- JACKBOT -->\n___\n### Issues\n<!-- LIST -->\n"
   epic_postamble: "\n<!-- ENDLIST -->\n To add an issue to this list use 
   the command `/issue #{issue_number}` in the comments of an issue.\n[Click here to find out 
