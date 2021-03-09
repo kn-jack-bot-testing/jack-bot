@@ -9,7 +9,33 @@ github:
     integration_id: 104202
     webhook_secret: "atKnrwDawOa"
     private_key: |
-      
+      -----BEGIN RSA PRIVATE KEY-----
+      MIIEogIBAAKCAQEAp4KppMmHWGCEjnwB+uF3gSyyg9Bg3sG+bRcRSgeUTV2Xzk1U
+      t29n6jTKQ7NPfTk/bE6lkAykn+TAWTHNCqHPFh/46gc1IYv6q1r5Hce+K9FJwbB3
+      tCZfr05bMiKpaNVc/DFW7nb29qo/N6fhdclGGYVM8XTXr8XOLhSjGdpAy1VzKqhP
+      riemH9B6ZT4rnE1Y9fFOCQwW7Fp6rfTofkPFYKsgmYKkQi2o74seJOgAJ90x7ii7
+      O0sMGl+05ymLbcY3/OeaL4bM0jgC4ZIAsEFy7JEbD5eK3r843uuwrqSAq2EHrhJk
+      jJC3m8or/cpGIy8arLQzea3FOZT3DsXRii1XPwIDAQABAoIBADinK2LtOdY9Bnf+
+      HtlP6hAJIvMLxcdw9UuF8rX77D9iORZv9wf3KMkAQ6wz991dQEMMMliOvhrJzfgc
+      rME8yoIsHA5ik6id5BCSOxDEXmAJb42Pdly6YcAzmwpQyMUI7GLq+QC7wXjZSXo0
+      UD967Ddzavt6zfvHxZy2JBd5RlK+LnuF9PVXQmdiZszKLm5tBam1Ex3Aw6QPSQYN
+      tYkBVF0x96djdPv4/O16zLXuhSnAxBaN0cQ5sSrt2ktJ6GUHs8XBQfPhqDQKknxP
+      hIpWVUaqop7fyQ73cqpGkY1cy8mt0uYVaNjZM8CbI2qaHasWQie9IimgsfBxDVo7
+      Oc4K3NkCgYEA1/Y7TtlW+JafwmgxOtJQM4sFBTxX12vMufyI1kTvjxtv5UDHRIqE
+      gjLy36XILNqqM7fZJWRmwJkLvWg7RqWjBJLmPJaZzwf2lekr2e99nuYIhWc+cX0W
+      KBKVejDMttzOTairH6LaPLNDg2MeEEKPRnqS1i9sDTHmp3vUjJgNzhsCgYEAxpDg
+      W0Moqq/uLbODeReQL1SZsbgufGfuNxXlfJ+afOcQAL02oOBIELqiZ9v7R+qH0+Pk
+      m6AVPPrgkhxOH6ZsNYLHeFtEJQ0VwAC0CHK5ja0R/RFvN7m7nma1ORdP1abG+JNY
+      nQXe2d9bVdSH3zG9L38eGNNyOKKBWZ52YTGAHa0CgYB4inOoGx+0OT6K4GU6E9G4
+      M0xmE7xj/UOUPCSUlH2yPvpB19pho386vP1bX8lPX+3IWEHX4SaJMeOfoOIVGLbZ
+      ArWH8/d921ADdNaJGmffnT38WBg+eDc5vsW4IizhlHWCWzbIvblaUCTK3TQWl1Ap
+      Ypk6+9UvuD6qFTAaGXT7KQKBgF1kNqG17KKbLIMCM4v4sTARslgMMJECsN/nxI/g
+      4WBtrPEsDU2NL1fu8AO5S25/uHLIdPVdTZ/ov0b5WSU5uRtR70+EXYCvrtMngYWX
+      r/4asKM+V/j1unC+De5UMJBkaKDxbHQuFqqSivrLgzxOwJReTWGP0eEhTYVBKpx8
+      E63hAoGAUNfH8SSsYkBqZo+mwDgJ/c/+qDQk4oMLk1blL3ykRWcmnUbUe4YjlHg3
+      aqrFHwmBYfCL6B1DpF9QTZxAok9s7m1BCj/SzBUu4s5JlVmyxlIAyCgjGZv47gJ0
+      fJn+/v+JJrFsiQ5iPkEP8pd/OB3Z5+MDGM2+VU0/RbcoRv32cOY=
+      -----END RSA PRIVATE KEY-----
       
 
 app_configuration:
